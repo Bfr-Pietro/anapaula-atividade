@@ -1,0 +1,9 @@
+{
+  "name": "reforca-ai",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "firebase": "8.10.1",
+    "expo-image-picker": "*"
+  }
+}
