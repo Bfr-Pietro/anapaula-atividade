@@ -4,6 +4,6 @@
   "main": "App.js",
   "dependencies": {
     "firebase": "8.10.1",
-    "expo-image-picker": "*"
+    "expo-image-picker": "17.0.8"
   }
 }
